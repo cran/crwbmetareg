@@ -1,0 +1,11 @@
+868d18a83aef8f5e256ee1781e36cf58 *DESCRIPTION
+a789acac6a0c338929173ebb1b696311 *NAMESPACE
+890f7e4f555e9474727a908bfa35f4fd *R/colwsmeta.R
+0152dd714dd3d3d1d79694b0b3902eee *R/crwbmetareg.R
+aebf0468d4cd539c3c09480938fe2f88 *R/fatpet.R
+461c5202af4e82114378d83ca1b786bf *R/wlsmeta.R
+ac1c22e4d94d7abf69da76cd7c64db47 *man/colwslmeta.Rd
+b7dd39712746bc9b51c1657ab395760d *man/crwbmetareg-package.Rd
+16a6695ba93c43b6cf8e7a882c30a102 *man/crwbmetareg.Rd
+34f706cd909915fb8362a36e9321df73 *man/fatpet.Rd
+8b4c0e212ee0702c8ace52953a2e9b9f *man/wlsmeta.Rd
